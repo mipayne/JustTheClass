@@ -1,5 +1,5 @@
 ---
-title: Unit 2: Stacking Faults
+title: Unit 2 - Stacking Faults
 ---
 
 Lecture 7
