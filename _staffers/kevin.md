@@ -1,11 +1,11 @@
 ---
-name: Kevin Lin
+name: Madelyn Payne
 role: Instructor
-email: me@example.com
-website: https://kevinl.info
+email: mpayne@berkeley.edu
+website: https://madelynipayne.com
 photo: kevin.jpg
 meta:
-  Office Hours: Somewhere on the internet
+  Office Hours: See [schedule](https://mipayne.github.io/JustTheClass/schedule/)
 ---
 
 [Schedule an appointment](#){: .btn .btn-outline }
