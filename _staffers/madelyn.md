@@ -8,4 +8,4 @@ meta:
   Office Hours: See [schedule](https://mipayne.github.io/JustTheClass/schedule/)
 ---
 
-[Schedule an appointment](#){: .btn .btn-outline }
+

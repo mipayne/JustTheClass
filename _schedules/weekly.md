@@ -32,7 +32,7 @@ schedule:
         location: HMMB 314
   - name: Wednesday
     events:
-      - name: Madelyn's OH
+      - name: Office Hours
         start: 10:00 AM
         end: 11:00 AM
         location: HMMB 314
