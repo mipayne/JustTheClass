@@ -26,7 +26,7 @@ schedule:
         start: 10:00 AM
         end: 11:00 AM
         location: HMMB 348
-      - name: Madelyn's OH
+      - name: Office Hours
         start: 11:00 AM
         end: 11:30 AM
         location: HMMB 314
@@ -43,7 +43,7 @@ schedule:
         start: 10:00 AM
         end: 11:00 AM
         location: HMMB 348
-      - name: Madelyn's OH
+      - name: Office Hours
         start: 11:00 AM
         end: 11:30 AM
         location: HMMB 314
