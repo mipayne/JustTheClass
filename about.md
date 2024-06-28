@@ -38,24 +38,15 @@ General Material Science and Mechanics of Materials Background
 
 ## Course Structure
 
-Review of Crystallographic Structure:
-•   Crystal structures and slip planes
-•   Schmid factor and Slip trace analysis
+Unit 1: Crystallographic Structure:
 
-Unit 1: Dislocations
-•   Define dislocations; edge vs screw and how you identify them 
-•   Movement and interactions of dislocations (e.g. climb, crossslip, kinking)
-•   Connection between dislocations and deformation 
+Unit 2: Dislocations
 
-Unit 2: Stacking Faults
-•   Define stacking faults and how they form
-•   Introduce Lomer Cottrell locks and stacking fault tetrahedra
-•   Stacking fault energy and how it plays into deformation mechanism
+Unit 3: Stacking Faults
 
-Unit 3: Grain boundaries
-•   Describing grain boundaries
-•   Difference between, twins, kink bands, and unusual twins
-•   [open]
+Unit 4: Grain boundaries
+
+Unit 5: Project
 
 Each unit will have:
 •   One journal club
@@ -82,18 +73,14 @@ Every class meeting will begin with a short quiz on the required reading for the
 The lowest 5 classwork grades are automatically dropped, so you are automatically excused from up to five classes. You can also make up missed or low classwork grades. More info: details of classwork grading and makeup.
 
 
-## Resources
-
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+## [Resources](#)
 
 ## Classwork Grading and Makeup
 
 Each class meeting has a classwork grade out of 10 points, which combines:
-
-exercises before class (reading questions, TypeScript Tutor, GitStream)
-a nanoquiz at the start of class
+exercises before class (e.g. reading questions), a nanoquiz at the start of class,
 exercises during class (programming, clicker questions, other activities)
-Before-class work (including exercises in the reading, TS Tutor, and GitStream) is graded based on whether you put effort into it, not whether your answers were correct. These exercises help you check your understanding and practice for the in-class nanoquiz, so take them seriously. Merely reading something is not as effective for learning as first reading and then testing yourself on what you read. Before-class work is generally due at 10pm the day before the class. Work done after that deadline earns partial credit: nearly full credit for work late by an hour or two, but less and less the longer overdue.
+Before-class work is graded based on whether you put effort into it, not whether your answers were correct. These exercises help you check your understanding and practice for the in-class nanoquiz, so take them seriously. Merely reading something is not as effective for learning as first reading and then testing yourself on what you read. Before-class work is generally due at 10pm the day before the class. Work done after that deadline earns partial credit: nearly full credit for work late by an hour or two, but less and less the longer overdue.
 
 Nanoquizzes are graded like quizzes. The nanoquiz will be worth roughly from 1/3 to 2/3 of the classwork grade, but possibly less than 1/3. The exact amount will vary from class to class, depending on the number and kind of other activities.
 ### Class makeup
@@ -154,9 +141,9 @@ As part of each problem set, there will be an in-class review period when other 
 Iteration:
 Each problem set will have two submissions, alpha and beta. The alpha submission will be graded and will be subject to code review. The beta submission is due a few days after you receive feedback on alpha. You will be expected to iterate on your solutions and revise your assignment based on the in-class feedback. If you received full marks on your assignment you will be asked to complete an alternate media assignment. See more about alternate media assignments [here]().
 
-Slack days. To give you some flexibility for periods of heavy workload, minor illness, absence from campus, and other unusual circumstances, you may request limited extensions on problem set deadlines, called slack days. Each slack day is a 24-hour extension on the deadline. You have a budget of 10 slack days for the entire semester, which you may apply to any combination of problem sets, on either the alpha deadline or beta deadline or both. You can use at most 2 slack days for a given deadline. After your deadline has passed, whatever has been pushed to your repository on github.mit.edu is what we will use for grading.
+Slack days. To give you some flexibility for periods of heavy workload, minor illness, absence from campus, and other unusual circumstances, you may request limited extensions on problem set deadlines, called slack days. Each slack day is a 24-hour extension on the deadline. You have a budget of 10 slack days for the entire semester, which you may apply to any combination of problem sets, on either the alpha deadline or beta deadline or both. You can use at most 2 slack days for a given deadline. 
 
-You must request your extension before the problem set is due, by logging into the Caesar code-reviewing system and clicking on Request Extension. The system keeps track of your slack days and informs you how many you have left.
+You must request your extension before the problem set is due, by filling out this [google form](https://docs.google.com/forms/d/e/1FAIpQLSecF--lKuSqtInVrBADSc2GpWehYstVcWRJ9zyHp_do9MkxMA/viewform?usp=pp_url)
 
 Slack days are atomic; you can’t chop them up into slack hours or minutes. If you choose to use a slack day because you’re struggling with an assignment, go to bed and sleep, and get help in the morning. Seriously, that’s why the smallest unit is a day.
 
