@@ -203,3 +203,4 @@ Instead, please bring your grading questions to an instructor’s office hours, 
 This class was developed under the UC Berkeley "Preparing Future Faculty: Developing Courses through the Lens of Universal Design for Learning (Summer 2024) program". See the [Berkeley Graduate Division GSI Teaching & Resource Center website](https://gsi.berkeley.edu/programs-services/workshops-seminars-institutes/) for similar workshops and seminars. In addition, I was inspired by several courses I took as a student that facilitated my learning including:
 - [MIT's 6.031](https://web.mit.edu/6.031/www/sp22/)
 - [UC Berkeley's Data 100](https://ds100.org/)
+This course website was developed from Kevin Lin's [Just the Class GitHub Pages template](https://github.com/kevinlin1/just-the-class)
