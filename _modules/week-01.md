@@ -1,23 +1,17 @@
 ---
-title: Introduction to Java
+title: Review of Crystallographic Structure
 ---
 
-Sep 28
-: [Java & Git](#)
+Lecture 1
+: [Point Groups and Bravais Lattices](https://ocw.mit.edu/courses/3-012-fundamentals-of-materials-science-fall-2005/resources/lec14b/)
   : [1.1](#)
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
-
-Sep 30
-: [Variables & Objects](#)
+Lecture 2
+: [Structure of Solids](https://ocw.mit.edu/courses/3-012-fundamentals-of-materials-science-fall-2005/resources/lec16b/)
   : [1.2](#), [2.1](#)
 
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
+Lecture 3
+: [CRSS, Schmid Factor, and slip planes](#)
   : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+  **HW 1 due**{: .label .label-red }
+
