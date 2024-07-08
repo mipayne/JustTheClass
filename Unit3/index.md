@@ -47,13 +47,22 @@ By calculating the stacking fault energy you will have a tool to
 
 ## Problem Sets
 Problem Set #1
-
+- Question 1: 
+- Question 2: 
+- Question 3: 
+- Question 4:
+- Question 5:
 Problems Set #2
-
+- Question 1:
+- Question 2: 
+- Question 3: 
+- Question 4:
+- Question 5:
 Journal Club Assignment
+- Fang, Y., Chen, Y., Chen, B., Li, S., Gludovatz, B., Park, E. S., Sheng, G., Ritchie, R. O., & Yu, Q. (2021). An in situ ambient and cryogenic transmission electron microscopy study of the effects of temperature on dislocation behavior in CrCoNi-based high-entropy alloys with low stacking-fault energy. Applied Physics Letters, 119(26), 261903. [LINK](https://doi.org/10.1063/5.0069086/1023045https://pubs.aip.org/aip/apl/article/119/26/261903/1023045)
 
 Extra Assignment
--	Create a video with animation or a physical model/ tennis balls to describe how stacking changes in a stacking fault (see [Taylor sparks video](https://www.youtube.com/watch?v=ku6u7yqNwAc&pp=ygUcdGF5bG9yIHNwYXJrcyBzdGFja2luZyBmYXVsdA%3D%3D)for inspiration 
+-	Create a video with animation or a physical model/ tennis balls to describe how stacking changes in a stacking fault (see [Taylor sparks video](https://www.youtube.com/watch?v=ku6u7yqNwAc&pp=ygUcdGF5bG9yIHNwYXJrcyBzdGFja2luZyBmYXVsdA%3D%3D) for inspiration)
 
 ## Nanoquizzes
 
