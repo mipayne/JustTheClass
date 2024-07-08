@@ -31,3 +31,31 @@ Ultimately these skills help materials scientists understand how things will def
 - Calculate Stacking fault energy
 By calculating the stacking fault energy you will have a tool to 
   - Relate deformation features to observed mechanical properties
+
+# Resources
+
+- Identification: Text: [Hull and Bacon: Introduction to Dislocations](https://www.sciencedirect.com/book/9780080966724/introduction-to-dislocations), Video: [](), Podcast: []()
+- Description: [ ]
+	- Visualization of abc plane stacking in fcc copper youtube [video](https://www.youtube.com/watch?v=anBOxrbTDrI)
+	- Text: [MSE584 Unit 5.4.1](https://dtrinkle.matse.illinois.edu/MatSE584/kap_5/backbone/r5_4_1.html)
+[MSE 584](https://dtrinkle.matse.illinois.edu/MatSE584/)
+	- basically the class I want to teach but with different learning goals
+- Explanation [] Morris Mechanical Properties text book
+-  Calculate: Text [Hull and Bacon: Introduction to Dislocations](https://www.sciencedirect.com/book/9780080966724/introduction-to-dislocations)
+
+# Assessments
+
+## Problem Sets
+Problem Set #1
+
+Problems Set #2
+
+Journal Club Assignment
+
+Extra Assignment
+-	Create a video with animation or a physical model/ tennis balls to describe how stacking changes in a stacking fault (see [Taylor sparks video](https://www.youtube.com/watch?v=ku6u7yqNwAc&pp=ygUcdGF5bG9yIHNwYXJrcyBzdGFja2luZyBmYXVsdA%3D%3D)for inspiration 
+
+## Nanoquizzes
+
+
+
