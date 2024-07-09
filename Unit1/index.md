@@ -5,4 +5,6 @@ nav_order: 2
 has_children: true
 ---
 
-Hello World
+Resources:
+
+-	Visualization of abc plane stacking in fcc copper [youtube video](https://www.youtube.com/watch?v=anBOxrbTDrI)

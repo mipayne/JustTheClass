@@ -66,7 +66,11 @@ Journal Club Assignment
 Extra Assignment
 -	Create a video with animation or a physical model/ tennis balls to describe how stacking changes in a stacking fault (see [Taylor sparks video](https://www.youtube.com/watch?v=ku6u7yqNwAc&pp=ygUcdGF5bG9yIHNwYXJrcyBzdGFja2luZyBmYXVsdA%3D%3D) for inspiration)
 
-- 
+-  Make a diffraction cheat sheet for fcc, bcc, and a structure of your choosing
+
+- Identify resources that were helpful to you
+
+
 
 ## Nanoquizzes
 
