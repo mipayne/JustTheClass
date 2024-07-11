@@ -39,7 +39,7 @@ With a partner, discuss how you think stacking faults will affect diffraction. E
 
 We've included a picture below of what a XRD plot and TEM diffraction pattern look like for an FCC material for reference.
 
-![FCC [011] ZA TEM Diffraction Pattern](./images/FCC_011_TEM_DP)
-![FCC X-ray Diffraction Spectrum](./images/FCC-Ni_xrd_spectrum) This image was taken from the chem.libretexts [website](https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Solid_State_Chemistry/06%3A_Recitations/6.16%3A_X-ray_Diffraction_and_Selection_Rules)
+![FCC [011] ZA TEM Diffraction Pattern](./images/FCC_011_TEM_DP.png)
+![FCC X-ray Diffraction Spectrum](./images/FCC-Ni_xrd_spectrum.png) This image was taken from the chem.libretexts [website](https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Solid_State_Chemistry/06%3A_Recitations/6.16%3A_X-ray_Diffraction_and_Selection_Rules)
 
 ## Conculsion
