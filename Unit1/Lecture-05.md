@@ -1,17 +1,19 @@
 ---
 layout: default
-title: Lecture-01
+title: Lecture-05
 parent: Unit-01
 nav_order: 2
 ---
 
-# Point Groups and Bravais Lattices
+# Practical Overview of TEM
+
 
 # Lesson Plan:
 
 
 ## Learning Objectives:
-- ?
+- Be able to index a TEM diffraction pattern knowing the general phase (bcc, fcc, hcp. etc.)
+- Know the basics of TEM vs STEM, HRSTEM vs HRTEM
 ## Lesson
 
 ## Nanoquiz (10 min)

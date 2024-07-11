@@ -1,17 +1,18 @@
 ---
 layout: default
-title: Lecture-01
+title: Lecture-04
 parent: Unit-01
 nav_order: 2
 ---
 
-# Point Groups and Bravais Lattices
-
+# Practical Overview of SEM
+Maybe I can ask Peter for resources for this
 # Lesson Plan:
 
 
 ## Learning Objectives:
-- ?
+- 
+
 ## Lesson
 
 ## Nanoquiz (10 min)
