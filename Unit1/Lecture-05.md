@@ -19,9 +19,10 @@ nav_order: 2
 ## Nanoquiz (10 min)
 Students are expected to arrive on time so that they have enought time to complete the nanoquiz.
 ### Question 1
+Index this bcc diffraction pattern
 
 ### Question 2
-
+What is the lattice parameter for this crystal? If I told you it was an elemental metal, what element is it?
 
 
 
