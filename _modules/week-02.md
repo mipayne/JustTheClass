@@ -17,7 +17,8 @@ Lecture 7
 Lecture 8
 : [Dislocations and Deformation](#)
   : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-  : **HW 2 due**{: .label .label-red }
+: **HW 2 due**{: .label .label-red }
+
 - GND's/all the things I read for the Cu project
 In this section we will go over the connection between dislocations and deformation
 
