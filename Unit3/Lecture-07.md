@@ -31,7 +31,7 @@ Today for the mini lecture we will briefly go over stacking faults as a review o
 
 ## Activity \# 1 (12 min total including debrief)
 
-On your desk, you should havea a clear box, and several sheets of colored ping pong balls glued together. These sheets are colored to help you better visualize the different 111 planes of an fcc lattice. Use these supplies to visualize how planes must move to create a stacking fault. It may be useful to work with your neighbor, where one of your physical models represents ABCABC stacking and the other represents ABAB stacking.
+On your desk, you should have a clear box, and several sheets of colored ping pong balls glued together. These sheets are colored to help you better visualize the different 111 planes of an fcc lattice. Use these supplies to visualize how planes must move to create a stacking fault. It may be useful to work with your neighbor, where one of your physical models represents ABCABC stacking and the other represents ABAB stacking.
 #### Learning Objectives addressed by this activity:
 - 
 ### Debrief (2 min)
@@ -42,12 +42,10 @@ With a partner, discuss how you think stacking faults will affect diffraction. E
 
 We've included a picture below of what a XRD plot and TEM diffraction pattern look like for an FCC material for reference.
 
-![FCC [011] ZA TEM Diffraction Pattern](./images/FCC_011_TEM_DP.png)
-![FCC X-ray Diffraction Spectrum](./images/FCC-Ni_xrd_spectrum.png) This image was taken from the chem.libretexts [website](https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Solid_State_Chemistry/06%3A_Recitations/6.16%3A_X-ray_Diffraction_and_Selection_Rules)
 
 FCC X-ray Diffraction Spectrum          |  FCC [011] ZA TEM Diffraction Pattern
 :-------------------------:|:-------------------------:
-![](./images/FCC-Ni_xrd_spectrum.png)  |  ![](./images/FCC_011_TEM_DP.png)
+![FCC X-ray Diffraction Spectrum, showing peaks at specific 2 theta angles](./images/FCC-Ni_xrd_spectrum.png)  |  ![FCC [011] ZA TEM Diffraction Pattern that also indicates the angles between diffraction spots and a A/B ratio](./images/FCC_011_TEM_DP.png)
 
 Sources:
 chem.libretexts [website](https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Solid_State_Chemistry/06%3A_Recitations/6.16%3A_X-ray_Diffraction_and_Selection_Rules)
