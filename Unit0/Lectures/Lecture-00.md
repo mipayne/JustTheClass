@@ -2,8 +2,10 @@
 layout: default
 title: Lecture-00
 parent: Unit-00 Lectures
-nav_order: 2
+grand_parent: Unit-00
+nav_order: 1
 ---
+
 
 # Introduction to the course
 
