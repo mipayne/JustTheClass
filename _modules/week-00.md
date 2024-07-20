@@ -18,7 +18,7 @@ September 5
 September 10
 : **Lecture 3**{: .label .label-purple }[CRSS, Schmid Factor, and slip planes](#)
   : [1.1](#)
-: **Muddy Cards Unit 1**{: .label .label-purple }[Muddy Cards]()(\*OPTIONAL\* due at 11:59 PM)
+: **Muddy Cards Unit 1**{: .label .label-grey }[Muddy Cards]() (\*OPTIONAL\* due at 11:59 PM)
 
 
 
