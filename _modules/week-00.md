@@ -3,12 +3,13 @@ title: Unit 0 - Review of Crystallographic Structure
 ---
 
 August 29
-: **Lecture 0**{: .label .label-purple }[Introduction](#)
-: **Pre-course Survey**{: .label .label-red}[Pre-course Survey]()(due Sep 3)
-: **Participation Goal Survey**{: .label .label-red}[Participation Goal Survey]()(due Sep 3)
+: **Lecture 0**{: .label .label-purple }[Introduction](https://mipayne.github.io/JustTheClass/Unit0/Lecture-00/)
+: **Pre-course Survey**{: .label .label-red}[Pre-course Survey](https://forms.gle/UMRdxzycmBCnQVhp6)(due Sep 3)
+: **Participation Goal Survey**{: .label .label-red}[Participation Goal Survey](https://forms.gle/bnE7636yzNJJVBLU7)(due Sep 3)
 
 September 3
-: **Lecture 1**{: .label .label-purple }[Point Groups and Bravais Lattices](https://ocw.mit.edu/courses/3-012-fundamentals-of-materials-science-fall-2005/resources/lec14b/)
+: **Lecture 1**{: .label .label-purple }[Point Groups and Bravais Lattices](https://mipayne.github.io/JustTheClass/Unit0/Lecture-01/)
+  : [Point Groups and Bravais Lattices](https://ocw.mit.edu/courses/3-012-fundamentals-of-materials-science-fall-2005/resources/lec14b/))
   : [Miller Indices](#)
 
 September 5
