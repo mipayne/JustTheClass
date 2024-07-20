@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lecture-01
-parent: Unit-00
+parent: Unit-00 Lectures
 nav_order: 2
 ---
 
