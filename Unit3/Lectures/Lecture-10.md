@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lecture-07
+title: Lecture-10
 parent: Unit-03 Lectures
 grand_parent: Unit-03 
 nav_order: 1
@@ -51,7 +51,7 @@ FCC X-ray Diffraction Spectrum          |  FCC [011] ZA TEM Diffraction Pattern
 Sources:
 chem.libretexts [website](https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Solid_State_Chemistry/06%3A_Recitations/6.16%3A_X-ray_Diffraction_and_Selection_Rules)
 
-Edington, J. W. (1975). Electron Diffraction in the Electron Microscope. Red Globe Press. https://doi.org/10.1007/978-1-349-02595-4
+:page_with_curl: Edington, J. W. (1975). Electron Diffraction in the Electron Microscope. Red Globe Press. https://doi.org/10.1007/978-1-349-02595-4
 
 #### Learning Objectives addressed by this activity:
 - 

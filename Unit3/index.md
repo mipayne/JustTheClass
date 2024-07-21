@@ -9,18 +9,38 @@ has_children: true
 1. TOC
 {:toc}
 # Topics
-Lecture 10: Introduction to Stacking Faults
+## Lecture 10: Introduction to Stacking Faults
 - Stacking Faults
 - Lomer Cottrell Locks and Stacking Fault Tetrahedra
 - how stacking faults and others are generated: annealing, radition , etc. 
 
-Lecture 11: Other Planar Defects
+## Lecture 11: Other Planar Defects
 - other planar defects: anti-phase boundaries, inversion domain boundaries
 
-Lecture 12: Stacking Faults and Deformation
+## Lecture 12: Stacking Faults and Deformation
 - Quantitative Analysis of Stacking Faults
   - burgers vector sums
   - fringe contrast --> indication of extrnisic vs intrinsic stacking fault
+
+# Reading List
+
+## Lecture 10: Introduction to Stacking Faults
+- :books: [Hull and Bacon: Introduction to Dislocations: Section 1.3](https://www.sciencedirect.com/book/9780080966724/introduction-to-dislocations)
+  - Stacking Faults
+- :books: [Hull and Bacon: Introduction to Dislocations: Section 5.6 (pg 97-101)](https://www.sciencedirect.com/book/9780080966724/introduction-to-dislocations)
+  - Lomer-Cottrell Locks & SFTs
+
+## Lecture 11: Other Planar Defects
+
+
+## Lecture 12: Stacking Faults and Deformation
+- :movie_camera: [Niraj Chawake's Stacking faults in FCC](https://www.youtube.com/watch?v=yRRoI9tgET8&t=1361s)
+  - [18:04-26:26]
+- :books: [Sun_2021](https://doi.org/10.1080/14786437108217419)
+  - Section 3.1 contains a good explanation of SFE calculation from TEM
+- : [Cockayne_1971](https://doi.org/10.1080/14786437108217419) (example of SFE calculations in fcc materials)
+
+
 
 # Learning Objectives of Unit 3: Stacking Faults
 
@@ -55,6 +75,7 @@ By calculating the stacking fault energy you will have a tool to
 - Description: [ ]
 	- Visualization of abc plane stacking in fcc copper youtube [video](https://www.youtube.com/watch?v=anBOxrbTDrI)
 	- Text: [MSE584 Unit 5.4.1](https://dtrinkle.matse.illinois.edu/MatSE584/kap_5/backbone/r5_4_1.html)
+
 [MSE 584](https://dtrinkle.matse.illinois.edu/MatSE584/)
 	- basically the class I want to teach but with different learning goals
 - Explanation [] Morris Mechanical Properties text book
@@ -65,13 +86,6 @@ By calculating the stacking fault energy you will have a tool to
 ## Problem Sets
 Problem Set #1
 - Question 1: 
-- Question 2: 
-- Question 3: 
-- Question 4:
-- Question 5:
-
-Problems Set #2
-- Question 1:
 - Question 2: 
 - Question 3: 
 - Question 4:

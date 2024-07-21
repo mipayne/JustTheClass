@@ -24,4 +24,16 @@ In this section we will go over the connection between dislocations and deformat
 - what do dislocations tell you about deformation
 - wavy vs planar slip?
 
+# Readings
+
+## Lecture 6: Introdcution to Dislocations
+- :movie_camera: [MITx 30.12](https://mitxonline.mit.edu/courses/course-v1:MITxT+3.012Sx/)
+	- Unit 6: Dislocations and Deformation
+- :movie_camera: [Texas A&M Introduction to dislocations Playlist](https://www.youtube.com/watch?v=4A9EiTAkQro&list=PLzldQixzgawDiLu7e5myGRqBtNCSAOdbi&pp=iAQB)
+- :books: [Callister 4.5](https://archive.org/details/materials-science-and-engineering-8th-edition-callister_201910/page/n11/mode/2up) (very surface level but has nice static visualizations)
+- :books: [Hull and Bacon: Introduction to Dislocations: Section 1.4](https://www.sciencedirect.com/book/9780080966724/introduction-to-dislocations)
+
+# Journal Club
+[Li, Keer et al. A novel deformation mechanism in Ti-V binary $/beta$-Ti alloys: Deformation kinking promoted by dislocation accumulation](https://doi.org/10.1016/j.jallcom.2021.159982)
+
 # Learning Objectives of Unit 2:

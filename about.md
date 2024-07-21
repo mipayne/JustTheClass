@@ -43,6 +43,19 @@ We will do a quick overview of crystallographic structures including the Bravais
 ### Prerequisites
 General Material Science and Mechanics of Materials Background
 
+Expected Materials Science Background and Resources:
+- Callister
+    Good for looking up basic descriptions of some things that you might come across
+    - You should have already been exposed to these topics
+        - 4.5 Dislocations
+        - 4.6 microscopy
+        - Ch.7 Dislocations and Strengthening Mechanisms
+- Morris – IV Mechanical properties
+- Any introduction to solid state chemistry:
+    - [MIT's edx course](https://www.edx.org/course/introduction-to-solid-state-chemistry)
+
+
+
 ## Course Structure
 Unit 0: Overview of Crystallographic Structure
 
@@ -260,6 +273,7 @@ The [Care Line](https://care.berkeley.edu/care-line/) (510-643-2005) is a 24/7, 
 
 ### For social services
 [Social Services](http://uhs.berkeley.edu/students/counseling/socialservices.shtml) provides confidential services and counseling to help students with managing problems that can emerge from illness such as financial, academic, legal, family concerns, and more. They specialize in helping students with pregnancy resources and referrals; alcohol/drug problems related to one’s own or a family member’s use; sexual assault/rape; relationship or other violence; and support for health concerns-new diagnoses or ongoing conditions. Social Services staff will assess a student’s immediate needs, work with the student to develop a plan to meet those needs, and facilitate arrangements with academic departments and advocate for the student with other campus offices and community agencies, as well as coordinate services within UHS
+
 ## Inspirations
 This class was developed under the UC Berkeley "Preparing Future Faculty: Developing Courses through the Lens of Universal Design for Learning (Summer 2024) program". See the [Berkeley Graduate Division GSI Teaching & Resource Center website](https://gsi.berkeley.edu/programs-services/workshops-seminars-institutes/) for similar workshops and seminars. In addition, I was inspired by several courses I took as a student that facilitated my learning including:
 - [MIT's 6.031](https://web.mit.edu/6.031/www/sp22/)
