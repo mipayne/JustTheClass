@@ -112,40 +112,6 @@ Submit your makeup on the makeup submission form.
 Accepted makeup questions may be used anonymously as ungraded review or makeup material in this or future semesters.
 
 
-
-## Q&A
-#### Why is the class structured the way it is?
-This class is focused on providing background knowledge on deformation features in crystalline solids and practice implementing this knowledge into a constructive and critical research setting. We want to provide as many opportunities for practice and feedback as possible so that you can take on your own research project at the end of the class. That means we don’t want to spend class time on lectures, we want to spend it on discussions of research and relevant concepts as you will spend most of your time in graduate school.
-
-#### Why is attendance in class required?
-Class meetings are all about practice and feedback. The individual, pair, and small group questions, exercises, and the discussions and feedback led by instructors, are a required component of the class.
-
-Class is like swim/judo/math team practice: you don’t get good unless you show up, and practicing with others is a necessary complement to practicing alone.
-
-#### I was or will be absent from class for one of the following:
-Athletic event
-Interview
-Travel
-Brief sickness or medical problem
-… or couldn’t participate because of a technical issue, what can I do?
-
-You are automatically excused from up to five classes. The grade for the missed nanoquiz and in-class work will be recorded as 0, but the lowest 5 classwork grades are dropped. You can also make up classes for partial credit by following the procedure for makeups.
-
-We expect everyone to have to miss class for a legitimate academic, personal, or health reason at some point during the semester: that’s why the lowest grades are dropped automatically.
-
-#### Why do I need to read the readings and complete the reading exercises the night before coming to class?
-Reading the material before class prepares you to spend class time practicing the concepts and skills you’re learning. Reading in advance gives you time to think and ask questions, and repeated exposure to material spaced out over time improves learning.
-
-See: [Spacing effect](https://en.wikipedia.org/wiki/Spacing_effect)
-
-#### Why does the class have nanoquizzes on topics before we practice them in class?
-Nanoquizzes assess whether you did the reading and practiced with the reading exercises before coming to class, and they provide feedback to you on your comprehension. Nanoquizzes are themselves part of the practice we do in class: recalling information from the readings benefits learning more than just re-reading or re-hearing it.
-
-See: [Testing effect](https://en.wikipedia.org/wiki/Testing_effect)
-
-#### Are past nanoquizzes available?
-No. However, reading exercises are often based on (or copied from) past nanoquiz questions.
-
 ## Problem sets, iteration, and slack days
 Problem sets. To consolidate your understanding of the ideas from class, you will do five problem sets, PS0 to PS4, involving both design and implementation work. Problem sets will be done individually. More info: collaboration on problem sets.
 
@@ -226,6 +192,44 @@ We are committed to creating a learning environment welcoming of all students th
     - There’s also a great set of resources available at [https://eecs.berkeley.edu/resources/students/grievances](https://eecs.berkeley.edu/resources/students/grievances).
 - If there are other resources you think we should list here, let us know!
 <b>We take all complaints about unprofessional or discriminatory behavior seriously.</b>
+
+
+## Q&A
+
+### What is the best way to ask asynchronous questions?
+The best way to reach the course staff outside of office hours and lectures is by submitting a private or public post on Piazza. We encourage students to post questions about course content on piazza so that students can learn from eachothers questions. However, if you specific solutions to assignments should only be posted privately to the course instructors.
+ 
+### Why is the class structured the way it is?
+This class is focused on providing background knowledge on deformation features in crystalline solids and practice implementing this knowledge into a constructive and critical research setting. We want to provide as many opportunities for practice and feedback as possible so that you can take on your own research project at the end of the class. That means we don’t want to spend class time on lectures, we want to spend it on discussions of research and relevant concepts as you will spend most of your time in graduate school.
+
+### Why is attendance in class required?
+Class meetings are all about practice and feedback. The individual, pair, and small group questions, exercises, and the discussions and feedback led by instructors, are a required component of the class.
+
+Class is like swim/judo/math team practice: you don’t get good unless you show up, and practicing with others is a necessary complement to practicing alone.
+
+### I was or will be absent from class for one of the following:
+Athletic event
+Interview
+Travel
+Brief sickness or medical problem
+… or couldn’t participate because of a technical issue, what can I do?
+
+You are automatically excused from up to five classes. The grade for the missed nanoquiz and in-class work will be recorded as 0, but the lowest 5 classwork grades are dropped. You can also make up classes for partial credit by following the procedure for makeups.
+
+We expect everyone to have to miss class for a legitimate academic, personal, or health reason at some point during the semester: that’s why the lowest grades are dropped automatically.
+
+### Why do I need to read the readings and complete the reading exercises the night before coming to class?
+Reading the material before class prepares you to spend class time practicing the concepts and skills you’re learning. Reading in advance gives you time to think and ask questions, and repeated exposure to material spaced out over time improves learning.
+
+See: [Spacing effect](https://en.wikipedia.org/wiki/Spacing_effect)
+
+### Why does the class have nanoquizzes on topics before we practice them in class?
+Nanoquizzes assess whether you did the reading and practiced with the reading exercises before coming to class, and they provide feedback to you on your comprehension. Nanoquizzes are themselves part of the practice we do in class: recalling information from the readings benefits learning more than just re-reading or re-hearing it.
+
+See: [Testing effect](https://en.wikipedia.org/wiki/Testing_effect)
+
+### Are past nanoquizzes available?
+No. However, reading exercises are often based on (or copied from) past nanoquiz questions.
 
 ## Additional Resources
 ### We want you to succeed!

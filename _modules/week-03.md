@@ -4,7 +4,9 @@ title: Unit 3 - Stacking Faults
 
 October 17
 : **Lecture 10**{: .label .label-purple }[Introduction to Stacking Faults](https://mipayne.github.io/JustTheClass/Unit0/Lecture-10/)
+  : **Participation Survey #2 Due**[Participation Survey #2](https://forms.gle/1Ro9kyy9ssjRMiJe8)
   : [4.1](#), [2.2](#), [2.3](#)
+: **Midterm Check-in**[Midterm Check-in](https://forms.gle/5Lujx28DQ8dA23HA8)
 
 October 18
 : **Problem Set 2 (beta)**{: .label .label-red }[PS2 solutions](#)<b>(due Oct 24)</b>

@@ -15,7 +15,7 @@ Lecture 01:
 
 Lecture 02: 
 - typical crystal structures: fcc, bcc, hcp, 
-- ordered versions of typical crystal structures: L12, B2, 
+- ordered versions of typical crystal structures: L12, B2, Si-Ge structure
 
 Lecture 03: 
 - CRSS, schmid factor and slip planes

@@ -21,6 +21,8 @@ December 3
 December 5
 : **Project Presentations**{: .label .label-yellow}[](#)
   : [Final Project guidelines](https://mipayne.github.io/JustTheClass/about/#project)
+: **End of Course Survey**[End of course survey](https://forms.gle/3Pnvitcs6e9LkErc7)
+  : **Participation Survey #3 Due**[Participation Survey #3](https://forms.gle/pt2nHUYKE266UYAC7)
 : **Last Class**{: .label .label-blue}[](#)
 
 December 17
