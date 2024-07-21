@@ -16,7 +16,7 @@ description: >-
 
 ---
 
-## About Electron Microscopy Mechanics of Material Defects
+## About Mechanics of Material Defects
 
 This course will guide you through the practical tools and background knowledge you will need as an experimentalist studying deformation features in crystalline materials, specifically those that are of interest in the deformation and mechanical properties of metals. This course puts particular focus on being able to connect illustrative models to how defects might look when observed in a scanning electron microscope (SEM) or transmission electron microscope (TEM). This is not a comprehensive overview of material defects nor of electron microscopy, but is instead an overview of materials defects for a first-year PhD student who will be studying characterization of deformation features in crystal structures. <small> I like to think of this as a crash course that I wish I had as a first-year PhD student </small>
 
@@ -166,10 +166,6 @@ Instead, please bring your grading questions to an instructor’s office hours, 
 We hope to foster an inclusive and safe learning environment based on curiosity rather than competition. All members of the course community—the instructor, students, and GSIs—are expected to treat each other with courtesy and respect. Some of the responsibility for that lies with the staff, but a lot of it ultimately rests with you, the students.
 
 ### Be Aware of Your Actions
-Sometimes, the little things add up to creating an unwelcoming culture to some students. For example, you and a friend may think you are sharing in a private joke about other races, majors, genders, abilities, cultures, etc. but this can have adverse effects on classmates who overhear it. There is a great deal of research on something called “stereotype threat,” which finds simply reminding someone that they belong to a particular culture or share a particular identity (on whatever dimension) can interfere with their course performance.
-
-Stereotype threat works both ways: you can assume that a student will struggle based on who they appear to be, or you can assume that a student is doing great based on who they appear to be. Both are potentially harmful.
-
 Bear in mind that diversity has many facets, some of which are not visible. Your classmates may have medical conditions (physical or mental), personal situations (financial, family, etc.), or interests that aren’t common to most students in the course. Another aspect of professionalism is avoiding comments that (likely unintentionally) put down colleagues for situations they cannot control. Bragging in open space that an assignment is easy or “crazy,” for example, can send subtle cues that discourage classmates who are dealing with issues that you can’t see. Please take care, so we can create a class in which all students feel supported and respected.
 
 ### Be Respectful
@@ -198,7 +194,7 @@ We are committed to creating a learning environment welcoming of all students th
 
 ### What is the best way to ask asynchronous questions?
 The best way to reach the course staff outside of office hours and lectures is by submitting a private or public post on Piazza. We encourage students to post questions about course content on piazza so that students can learn from eachothers questions. However, if you specific solutions to assignments should only be posted privately to the course instructors.
- 
+
 ### Why is the class structured the way it is?
 This class is focused on providing background knowledge on deformation features in crystalline solids and practice implementing this knowledge into a constructive and critical research setting. We want to provide as many opportunities for practice and feedback as possible so that you can take on your own research project at the end of the class. That means we don’t want to spend class time on lectures, we want to spend it on discussions of research and relevant concepts as you will spend most of your time in graduate school.
 
