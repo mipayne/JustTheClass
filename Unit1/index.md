@@ -29,7 +29,7 @@ What basic knowledge of SEM do we need for further units?
 
 # Readings
 ## Lecture 04: Basics of SEM
-- :movie_camera: [Texas A&M Fundamentals of Scanning Electron Microscopy (SEM) Playlist](https://www.youtube.com/watch?v=YN6yRRtmeKY&list=PLzldQixzgawAaWNu-IMlvZgcYARLARc9j&pp=iAQB)
+- 🎥 [Texas A&M Fundamentals of Scanning Electron Microscopy (SEM) Playlist](https://www.youtube.com/watch?v=YN6yRRtmeKY&list=PLzldQixzgawAaWNu-IMlvZgcYARLARc9j&pp=iAQB)
 - :books: [Structures: Orientation texture by Wright, Stuart I. ; Hielscher, Ralf](https://doi.org/10.1016/B0-12-369401-9/00696-3)
 	- Good explanation of Inverse Pole Figures (IPF) and other orientation mapping techniques
 
