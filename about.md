@@ -16,9 +16,9 @@ description: >-
 
 ---
 
-## About Mechanics of Material Defects
+## About Electron Microscopy Mechanics of Material Defects
 
-This course will guide you through the practical tools and background knowledge you will need as an experimentalist studying deformation features in crystalline materials, specifically those that are of interest in the deformation and mechanical properties of metals. This course puts particular focus on being able to connect illustrative models to how defects might look when observed in a scanning electron microscope (SEM) or transmission electron microscope (TEM). This is not a comprehensive overview of material defects, but is instead an overview of materials defects for a first-year PhD student who will be studying deformation features in crystal structures. <small> I like to think of this as a crash course that I wish I had as a first-year PhD student </small>
+This course will guide you through the practical tools and background knowledge you will need as an experimentalist studying deformation features in crystalline materials, specifically those that are of interest in the deformation and mechanical properties of metals. This course puts particular focus on being able to connect illustrative models to how defects might look when observed in a scanning electron microscope (SEM) or transmission electron microscope (TEM). This is not a comprehensive overview of material defects nor of electron microscopy, but is instead an overview of materials defects for a first-year PhD student who will be studying characterization of deformation features in crystal structures. <small> I like to think of this as a crash course that I wish I had as a first-year PhD student </small>
 
 We will do a quick overview of crystallographic structures including the Bravais lattices and slip systems as well as Schmid factor and slip trace analysis. Then we will take a detailed look at dislocations: how they form, move, and how to characterize them (theoretically and with electron microscopy). Finally, we will move onto higher dimensional defects including stacking faults, twins, and kink bands. At the end of this course, you will be able to identify deformation features based on electron microscope micrographs and supporting crystallographic information. Students will practice identification through journal club assignments where they will have to re-analyze data presented in papers and outline why the papers conclusions are justified or not given the available data.
 
@@ -32,6 +32,23 @@ We will do a quick overview of crystallographic structures including the Bravais
 - Use a burgers circuit to find the burgers vector
 - Relate deformation features to observed mechanical properties
 - Predict mechanical behavior based on observed deformation features
+
+#### consideration of new learning goals
+metacognitive goals:
+
+- Be able to predict what tools would be helpful to you in your research
+- Reflect on the best ways to read papers
+- Reflect on the best ways to assess/question existing research
+- learn what resources and tools work best for you when engaging with research
+- have the tools in your toolbox to jump into characterization of structural materials
+- learn how to build toy models to better understand your system and design experiments
+
+affective goals:
+- by the end of this course, learners will appreciate the importance of critical yet respectful discussion with peers
+
+interpersonal goals:
+- by the end of the course, students should be able to clearly present research plans and why they are worth doing
+- Find value in and understand the intricacies of electron microscopy characterization techniques with respect to defects
 
 ### Prerequisites
 General Material Science and Mechanics of Materials Background
@@ -49,9 +66,11 @@ Unit 4: Grain boundaries
 
 Unit 5: Project
 
-Every fourth class period will be "Muddy Card" Lecture, where discussed topics will include those proposed by students. 
+### Muddy Cards
+Every fourth class period of a unit will be "Muddy Card" Lecture, where discussed topics will include those proposed by students. 
 Muddy cards can be written on paper in class the class period before the Muddy Card lecture or submitted on the [google form](https://docs.google.com/forms/d/e/1FAIpQLSfEng4On_vTBiJOrDqG2SDDcL_zuXyBPXqYyA5Bf-nhGubWZA/viewform?usp=sharing) by midnight of the class period before the Muddy Card lecture.  Students should feel free to ask about topics not discussed in class on muddy cards, but questions on topics specifically covered in the course will take precedence. 
 
+### Journal Clubs
 Units 2, 3, and 4 will have a journal club assignment and class period:
 Journal Clubs consist of:
 - reading the assigned primary research article
@@ -68,9 +87,6 @@ Most classes will have a reading that you must read before coming to class, with
 Every class meeting will begin with a short quiz on the required reading for the class, plus recent class meetings. Nanoquizzes are closed-book and closed-notes, with a 3-minute time limit. The nanoquiz is part of the grade for each class, along with reading exercises, in-class discussion, and other activities.
 
 The lowest 5 classwork grades are automatically dropped, so you are automatically excused from up to five classes. You can also make up missed or low classwork grades. More info: details of classwork grading and makeup.
-
-
-## [Resources](#)
 
 ## Classwork Grading and Makeup
 
@@ -135,10 +151,11 @@ No. However, reading exercises are often based on (or copied from) past nanoquiz
 ## Problem sets, iteration, and slack days
 Problem sets. To consolidate your understanding of the ideas from class, you will do five problem sets, PS0 to PS4, involving both design and implementation work. Problem sets will be done individually. More info: collaboration on problem sets.
 
-Iteration:
+### Iteration:
 Each problem set will have two submissions, alpha and beta. The alpha submission will be graded. The beta submission is due a few days after you receive feedback on alpha. You will be expected to do a revision on your solutions and write up an explanation of where you went wrong in your first solution. Then you will have to do a check-in with a staff member during office hours within 7 days of the beta submission deadline where you talk through your revision. If you received full marks on your alpha submission, you do not have to submit a written revision. However, you still need to complete a check-in within 7 days of the beta submission deadline. 
 
-Slack days. To give you some flexibility for periods of heavy workload, minor illness, absence from campus, and other unusual circumstances, you may request limited extensions on problem set deadlines, called slack days. Each slack day is a 24-hour extension on the deadline. You have a budget of 10 slack days for the entire semester, which you may apply to any combination of problem sets, on either the alpha deadline or beta deadline or both. You can use at most 2 slack days for a given deadline. 
+### Slack days:  
+To give you some flexibility for periods of heavy workload, minor illness, absence from campus, and other unusual circumstances, you may request limited extensions on problem set deadlines, called slack days. Each slack day is a 24-hour extension on the deadline. You have a budget of 10 slack days for the entire semester, which you may apply to any combination of problem sets, on either the alpha deadline or beta deadline or both. You can use at most 2 slack days for a given deadline. 
 
 You must request your extension before the problem set is due, by filling out this [google form](https://docs.google.com/forms/d/e/1FAIpQLSecF--lKuSqtInVrBADSc2GpWehYstVcWRJ9zyHp_do9MkxMA/viewform?usp=pp_url)
 
@@ -157,12 +174,15 @@ a unique topic. (Adapted from Berkeley MSE 241 Syllabus)
 ## Grading
 The relative contributions of the various elements to your grade are:
 
-Problem sets: 70%. PS0 is worth 10%, and PS1-PS4 are each worth 15%. Check-ins for PS0-PS4 are worth 1% of each problem set grade and are required to receive any points back on revisions. 
-Final Project: 20%.
-Classwork: 10%. Reflects your continuous participation in the course. Determined by effort on before-class reading exercises, grade on nanoquizzes, and effort on in-class exercises.
+**Problem sets:** 70%. PS0 is worth 10%, and PS1-PS4 are each worth 15%. Check-ins for PS0-PS4 are worth 1% of each problem set grade and are required to receive any points back on revisions. 
+
+**Final Project:** 20%.
+
+**Classwork:** 10%. Reflects your continuous participation in the course. Determined by effort on before-class reading exercises, grade on nanoquizzes, and effort on in-class exercises.
+
 Letter grades are determined at the end of the semester. The default cutoffs are: a final average of 90 and above is an A, 80 and above is a B, 70 and above is a C. These boundaries may be adjusted downwards if necessary because of the difficulty of the assignments, but the boundaries will never be adjusted upwards, so a final average of 90 is guaranteed to be an A. The boundary adjustment is done heuristically, and there are no grade quotas, no grade targets, and no centering of the class on a particular grade boundary.
 
-Every student is considered individually in the final grading meeting, judging from their entire performance in the course. A single bad mark in an otherwise consistent record will often be discounted.
+You are not competing against one another for grades. Our goal is for everyone to deepen their learning. Every student is considered individually in the final grading meeting, judging from their entire performance in the course. A single bad mark in an otherwise consistent record will often be discounted.
 
 ### What are the grade cutoffs this semester? What letter grade do I have?
 Letter grade cutoffs are determined only in the final grading meeting, and they are assigned only after individual consideration as described above.
