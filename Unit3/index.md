@@ -6,6 +6,8 @@ has_children: true
 ---
 # Table of contents
 {: .no_toc .text-delta }
+1. TOC
+{:toc}
 
 # Learning Objectives of Unit 3: Stacking Faults
 
