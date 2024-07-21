@@ -1,8 +1,6 @@
 ---
 layout: default
-title: Unit-02
-nav_order: 3
+title: Unit-02 Readings
+parent: Unit-02
 has_children: true
 ---
-
-Hello World

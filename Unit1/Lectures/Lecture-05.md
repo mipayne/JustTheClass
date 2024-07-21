@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Lecture-06
-parent: Unit-01
+title: Lecture-05
+parent: Unit-01 Lectures
+grand_parent: Unit-01
 nav_order: 2
 ---
 
-# Practical Overview of TEM \# 2
+# Practical Overview of TEM
 
 
 # Lesson Plan:

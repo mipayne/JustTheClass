@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Unit-03
-nav_order: 2
+nav_order: 4
 has_children: true
 ---
 
@@ -41,7 +41,7 @@ By calculating the stacking fault energy you will have a tool to
 [MSE 584](https://dtrinkle.matse.illinois.edu/MatSE584/)
 	- basically the class I want to teach but with different learning goals
 - Explanation [] Morris Mechanical Properties text book
--  Calculate: Text [Hull and Bacon: Introduction to Dislocations](https://www.sciencedirect.com/book/9780080966724/introduction-to-dislocations)
+-  Calculate: Text [Hull and Bacon: Introduction to Dislocations](https://www.sciencedirect.com/book/9780080966724/introduction-to-dislocations) pg. 11
 
 # Assessments
 
@@ -70,9 +70,6 @@ Extra Assignment
 
 - Identify resources that were helpful to you
 
-
-
-## Nanoquizzes
 
 
 

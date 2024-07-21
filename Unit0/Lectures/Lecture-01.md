@@ -2,6 +2,7 @@
 layout: default
 title: Lecture-01
 parent: Unit-00 Lectures
+grand_parent: Unit-00
 nav_order: 2
 ---
 

@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Lecture-07
-parent: Unit-03
-nav_order: 2
+parent: Unit-03 Lectures
+grand_parent: Unit-03 
+nav_order: 1
 ---
 
 # Introduction to Stacking Faults:
