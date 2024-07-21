@@ -20,10 +20,10 @@ Lecture 03:
 - CRSS, schmid factor and slip planes
 # Readings
 
-- :movie_camera: [MITx 30.12](https://mitxonline.mit.edu/courses/course-v1:MITxT+3.012Sx/)
+- 🎥 [MITx 30.12](https://mitxonline.mit.edu/courses/course-v1:MITxT+3.012Sx/)
 	- Unit 3& 4: Point Groups and Space Groups
 
-- :books: [DoITPoMS](https://www.doitpoms.ac.uk/) has many small modules on materials science topics
+- 📚 [DoITPoMS](https://www.doitpoms.ac.uk/) has many small modules on materials science topics
 	- [Crystal structure](https://www.doitpoms.ac.uk/tlplib/crystallography3/structure.php)
 	- [Miller indices](https://www.doitpoms.ac.uk/tlplib/miller_indices/printall.php)
 

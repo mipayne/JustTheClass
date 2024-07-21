@@ -25,20 +25,20 @@ has_children: true
 # Reading List
 
 ## Lecture 10: Introduction to Stacking Faults
-- :books: [Hull and Bacon: Introduction to Dislocations: Section 1.3](https://www.sciencedirect.com/book/9780080966724/introduction-to-dislocations)
+- 📚 [Hull and Bacon: Introduction to Dislocations: Section 1.3](https://www.sciencedirect.com/book/9780080966724/introduction-to-dislocations)
   - Stacking Faults
-- :books: [Hull and Bacon: Introduction to Dislocations: Section 5.6 (pg 97-101)](https://www.sciencedirect.com/book/9780080966724/introduction-to-dislocations)
+- 📚 [Hull and Bacon: Introduction to Dislocations: Section 5.6 (pg 97-101)](https://www.sciencedirect.com/book/9780080966724/introduction-to-dislocations)
   - Lomer-Cottrell Locks & SFTs
 
 ## Lecture 11: Other Planar Defects
 
 
 ## Lecture 12: Stacking Faults and Deformation
-- :movie_camera: [Niraj Chawake's Stacking faults in FCC](https://www.youtube.com/watch?v=yRRoI9tgET8&t=1361s)
+- 🎥 [Niraj Chawake's Stacking faults in FCC](https://www.youtube.com/watch?v=yRRoI9tgET8&t=1361s)
   - [18:04-26:26]
-- :books: [Sun_2021](https://doi.org/10.1080/14786437108217419)
+- 📚 [Sun_2021](https://doi.org/10.1080/14786437108217419)
   - Section 3.1 contains a good explanation of SFE calculation from TEM
-- : [Cockayne_1971](https://doi.org/10.1080/14786437108217419) (example of SFE calculations in fcc materials)
+- 📄 [Cockayne_1971](https://doi.org/10.1080/14786437108217419) (example of SFE calculations in fcc materials)
 
 
 
@@ -91,10 +91,10 @@ Problem Set #1
 - Question 4:
 - Question 5:
 
-Journal Club Assignment
+## Journal Club Assignment
 - Fang, Y., Chen, Y., Chen, B., Li, S., Gludovatz, B., Park, E. S., Sheng, G., Ritchie, R. O., & Yu, Q. (2021). An in situ ambient and cryogenic transmission electron microscopy study of the effects of temperature on dislocation behavior in CrCoNi-based high-entropy alloys with low stacking-fault energy. Applied Physics Letters, 119(26), 261903. [LINK](https://doi.org/10.1063/5.0069086/1023045https://pubs.aip.org/aip/apl/article/119/26/261903/1023045)
 
-Extra Assignment
+## Extra Assignment
 -	Create a video with animation or a physical model/ tennis balls to describe how stacking changes in a stacking fault (see [Taylor sparks video](https://www.youtube.com/watch?v=ku6u7yqNwAc&pp=ygUcdGF5bG9yIHNwYXJrcyBzdGFja2luZyBmYXVsdA%3D%3D) for inspiration)
 
 -  Make a diffraction cheat sheet for fcc, bcc, and a structure of your choosing

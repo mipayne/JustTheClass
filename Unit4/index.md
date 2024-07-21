@@ -26,7 +26,7 @@ has_children: true
 # Readings
 ## Lecture 12: Introduction to Grain Boundaries
 ## Lecture 13: Twins, kink bands and unusual boundaries
-- :books: [Deformation Twinning](https://www.sciencedirect.com/science/article/abs/pii/B9780128035818028782?via%3Dihub)
+- 📚 [Deformation Twinning](https://www.sciencedirect.com/science/article/abs/pii/B9780128035818028782?via%3Dihub)
 
 ## Lecture 14: Grain boundaries and Deformation
 # Learning Objectives of Unit 4:
