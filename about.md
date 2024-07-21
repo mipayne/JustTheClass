@@ -32,23 +32,13 @@ We will do a quick overview of crystallographic structures including the Bravais
 - Use a burgers circuit to find the burgers vector
 - Relate deformation features to observed mechanical properties
 - Predict mechanical behavior based on observed deformation features
-
-#### consideration of new learning goals
-metacognitive goals:
-
-- Be able to predict what tools would be helpful to you in your research
-- Reflect on the best ways to read papers
-- Reflect on the best ways to assess/question existing research
-- learn what resources and tools work best for you when engaging with research
-- have the tools in your toolbox to jump into characterization of structural materials
-- learn how to build toy models to better understand your system and design experiments
-
-affective goals:
-- by the end of this course, learners will appreciate the importance of critical yet respectful discussion with peers
-
-interpersonal goals:
-- by the end of the course, students should be able to clearly present research plans and why they are worth doing
-- Find value in and understand the intricacies of electron microscopy characterization techniques with respect to defects
+- Assemble tools in your characterization "tool-box" for your structural materials research
+- Formulate and/or use toy models to better understand your system and design experiments
+- Reflect on the best ways to assess and question existing research
+- Predict the tools you will need to answer your research questions
+- Demonstrate thoughtful, critical, and respectful discussion with peers
+- Write and Present research plans clearly and be able describe why this research is worth doing
+- Appreciate situations where electron microscopy characterization techniques are useful with respect to defects and understand their limitations
 
 ### Prerequisites
 General Material Science and Mechanics of Materials Background
