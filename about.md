@@ -62,11 +62,19 @@ Muddy cards can be written on paper in class the class period before the Muddy C
 
 ### Journal Clubs
 Units 2, 3, and 4 will have a journal club assignment and class period:
+The assigned reading for this class is the journal article. 
+
 Journal Clubs consist of:
 - reading the assigned primary research article
 - Write up reasons why you agree or disagree with a specific conclusion based on the provided evidence
-- Complete the figure annotation assignment
 - Participate in structured discussion
+
+#### Written Assignment guidelines
+- Students will submit a peer-reviewed journal style "reviewer comments" which should include:
+    - short 1 paragraph summary of the article
+    - comments that focus on at least 3 conclusions made in the article 
+- comments may be critical or complimentary of conclusions, but must reference how provided evidence (e.g. figures, tables, data) support the conclusions
+- Specific assignments may include additional tasks (e.g. complete a figure annotation assignment)
 
 ## Classes, readings, nanoquizzes
 ### Class meetings
@@ -157,8 +165,11 @@ If you have used up your slack days or exceeded the 2-day limit for a single dea
 
 ## Projects and Quizzes
 ### Project
-You will complete a final project, which will be in the form of a user proposal for instrument access to be submitted to a scientific user facility. Students will selecte a user facility of their choosing, and write a proposal investigating mechanical properties/deformation features/defects using available equipment. In this proposal you will describe a research plan that you would like to complete to understand deformation in a specific system. Projects will be graded on how well the proposed work addresses the hypothesis, and the feasibility of the experiment. Each student will complete an individual final project on
-a unique topic. (Adapted from Berkeley MSE 241 Syllabus)
+You will complete a final project, which will be in the form of a user proposal for instrument access to be submitted to a scientific user facility. Students will select a user facility of their choosing, and write a proposal investigating mechanical properties/deformation features/defects using available equipment. In this proposal you will describe a research plan that you would like to complete to understand deformation in a specific system. Projects will be graded on how well the proposed work addresses the hypothesis, and the feasibility of the experiment. Each student will complete an individual final project on a unique topic. (Adapted from Berkeley MSE 241 Syllabus). Students can work individually or with a partner
+
+The assignment will include:
+- written proposal
+- 15 minute in-class presentation
 
 
 ## Grading

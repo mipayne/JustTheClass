@@ -8,13 +8,26 @@ has_children: true
 {: .no_toc .text-delta }
 1. TOC
 {:toc}
+# Topics
+Lecture 10: Introduction to Stacking Faults
+- Stacking Faults
+- Lomer Cottrell Locks and Stacking Fault Tetrahedra
+- how stacking faults and others are generated: annealing, radition , etc. 
+
+Lecture 11: Other Planar Defects
+- other planar defects: anti-phase boundaries, inversion domain boundaries
+
+Lecture 12: Stacking Faults and Deformation
+- Quantitative Analysis of Stacking Faults
+  - burgers vector sums
+  - fringe contrast --> indication of extrnisic vs intrinsic stacking fault
 
 # Learning Objectives of Unit 3: Stacking Faults
 
 ## Identification
 - <u>Identify</u> a stacking fault with through TEM micrographs
-- Identify a Lomer Cottrell lock through TEM micrographs
-- Identify a stacking fault tetrahedra through TEM micrographs
+- <u>Identify</u> a Lomer Cottrell lock through TEM micrographs
+- <u>Identify</u> a stacking fault tetrahedra through TEM micrographs
 By being able to identify these features in TEM micrographs you will have a tool in your toolbox accomplish several overall learning objectives including:
   - Develop plans to determine which deformation features are present
   - Evaluate claims that a paper makes about what deformation features are present
