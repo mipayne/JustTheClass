@@ -222,8 +222,8 @@ We are committed to creating a learning environment welcoming of all students th
 - If you feel like your performance in the class is being affected by your experiences outside of class (e.g., family matters, current events), please don’t hesitate to come and talk with us. We want to be resources for you.
 - We (like many people) are still in the process of learning about diverse perspectives and identities. If something was said in class (by anyone) that made you feel uncomfortable, please talk to us about it.
 - While the course staff understands that improving diversity, equity, and inclusion (DEI) are not enough to overcome systemic issues in academia such as racism, queerphobia, and other forms of discrimination and hatred, we also recognize the importance of DEI work.
-    - The Office of Graduate Diversity https://grad.berkeley.edu/graduate-diversity/. 
-    - There’s also a great set of resources available at https://eecs.berkeley.edu/resources/students/grievances.
+    - The Office of Graduate Diversity [https://grad.berkeley.edu/graduate-diversity/](https://grad.berkeley.edu/graduate-diversity/). 
+    - There’s also a great set of resources available at [https://eecs.berkeley.edu/resources/students/grievances](https://eecs.berkeley.edu/resources/students/grievances).
 - If there are other resources you think we should list here, let us know!
 <b>We take all complaints about unprofessional or discriminatory behavior seriously.</b>
 
