@@ -4,6 +4,8 @@ title: Unit-03
 nav_order: 4
 has_children: true
 ---
+# Table of contents
+{: .no_toc .text-delta }
 
 # Learning Objectives of Unit 3: Stacking Faults
 
