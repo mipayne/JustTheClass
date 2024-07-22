@@ -15,7 +15,7 @@ has_children: true
 - <u>Identify</u> a Lomer Cottrell lock through TEM micrographs
 - <u>Identify</u> a stacking fault tetrahedra through TEM micrographs
 
-By being able to identify these features in TEM micrographs you will have a tool in your toolbox accomplish several overall learning objectives including:
+By being able to identify these features in TEM micrographs, you will have a tool in your toolbox to accomplish several overall learning objectives including:
   - Develop plans to determine which deformation features are present
   - Evaluate claims that a paper makes about what deformation features are present
 
@@ -23,7 +23,7 @@ By being able to identify these features in TEM micrographs you will have a tool
 - Describe how planes move to create a stacking fault
 - Describe how dislocations relate to stacking faults
 
-In knowing how to describe what a stacking fault is in relation to planes and dislocations you will have a fundamental understanding of how the feature forms and what needs to happen to form it. This fundamental understanding will help you in the future to
+In knowing how to describe what a stacking fault is in relation to planes and dislocations, you will have a fundamental understanding of how the feature forms and what needs to happen to form it. This fundamental understanding will help you in the future to:
 
   - Develop plans to determine which deformation features are present
   - Relate deformation features to observed mechanical properties
@@ -31,7 +31,7 @@ In knowing how to describe what a stacking fault is in relation to planes and di
 ## Explain
 - Explain how stacking faults affect mechanical properties
 
-If you can explain how stacking faults affect mechanical properties in a general sense, then for specific scenarios you can
+If you can explain how stacking faults affect mechanical properties in a general sense, then for specific scenarios you can:
 
   - Relate deformation features to observed mechanical properties
   - Predict mechanical behavior based on observed deformation features
@@ -40,7 +40,8 @@ Ultimately these skills help materials scientists understand how things will def
 
 ## Calculate
 - Calculate Stacking fault energy
-By calculating the stacking fault energy you will have a tool to 
+
+By calculating the stacking fault energy you will have a tool to:
   - Relate deformation features to observed mechanical properties
 
 
@@ -48,15 +49,15 @@ By calculating the stacking fault energy you will have a tool to
 ## Lecture 10: Introduction to Stacking Faults
 - Stacking Faults
 - Lomer Cottrell Locks and Stacking Fault Tetrahedra
-- how stacking faults and others are generated: annealing, radition , etc. 
+- How stacking faults and others are generated: annealing, radition , etc. 
 
 ## Lecture 11: Other Planar Defects
-- other planar defects: anti-phase boundaries, inversion domain boundaries
+- Other planar defects: anti-phase boundaries, inversion domain boundaries
 
 ## Lecture 12: Stacking Faults and Deformation
 - Quantitative Analysis of Stacking Faults
-  - burgers vector sums
-  - fringe contrast --> indication of extrnisic vs intrinsic stacking fault
+  - Burgers vector sums
+  - Fringe contrast --> indication of extrnisic vs intrinsic stacking fault
 
 # Reading List
 
@@ -85,7 +86,7 @@ By calculating the stacking fault energy you will have a tool to
 ## Journal Club Assignment
 - Fang, Y., Chen, Y., Chen, B., Li, S., Gludovatz, B., Park, E. S., Sheng, G., Ritchie, R. O., & Yu, Q. (2021). An in situ ambient and cryogenic transmission electron microscopy study of the effects of temperature on dislocation behavior in CrCoNi-based high-entropy alloys with low stacking-fault energy. Applied Physics Letters, 119(26), 261903. [LINK](https://pubs.aip.org/aip/apl/article/119/26/261903/1023045)
 
-## Extra Assignment
+## Extra Assignments
 -	Create a video with animation or a physical model/ tennis balls to describe how stacking changes in a stacking fault (see [Taylor sparks video](https://www.youtube.com/watch?v=ku6u7yqNwAc&pp=ygUcdGF5bG9yIHNwYXJrcyBzdGFja2luZyBmYXVsdA%3D%3D) for inspiration)
 
 -  Make a diffraction cheat sheet for fcc, bcc, and a structure of your choosing

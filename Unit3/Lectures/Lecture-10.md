@@ -9,15 +9,19 @@ nav_order: 1
 # Introduction to Stacking Faults:
 
 
-# Lesson Plan:
+# Lesson Plan (50 min):
 
 
 ## Learning Objectives:
-- Students will be able to describe how planes move to create stacking faults
+At the end of this lecture students will be able to: 
+- Describe how planes move to create stacking faults
+- Identify the stacking order for different kinds of stacking faults
+- Visually demonstrate the difference between FCC and HCP stacking
+- Predict how stacking faults affect diffraction
 
 ## Lesson
 
-## Nanoquiz (10 min)
+## Nanoquiz (5 min)
 Students are expected to arrive on time so that they have enought time to complete the nanoquiz.
 ### Question 1
 Name the different types of stacking faults observed in face-centered cubic structures and either describe or draw how the stacking order is different
@@ -27,17 +31,17 @@ Draw or describe how a stacking fault might look like with TEM Bright field imag
 
 
 
-## Mini Lecture (15 min)
+## Mini Lecture (16 min)
 Today for the mini lecture we will briefly go over stacking faults as a review of the at home reading.
 
-## Activity \# 1 (12 min total including debrief)
+## Activity \# 1 (14 min total including debrief)
 
 On your desk, you should have a clear box, and several sheets of colored ping pong balls glued together. These sheets are colored to help you better visualize the different 111 planes of an fcc lattice. Use these supplies to visualize how planes must move to create a stacking fault. It may be useful to work with your neighbor, where one of your physical models represents ABCABC stacking and the other represents ABAB stacking.
 #### Learning Objectives addressed by this activity:
-- 
+- Visually demonstrate the difference between FCC and HCP stacking
 ### Debrief (2 min)
 
-## Activity \# 2 (12 min total including debrief)
+## Activity \# 2 (14 min total including debrief)
 
 With a partner, discuss how you think stacking faults will affect diffraction. Either describe this in writing or draw a schematic plot of what you think x-ray diffraction or electron diffraction patterns might look like from a material containing stacking faults.
 
@@ -54,7 +58,7 @@ chem.libretexts [website](https://chem.libretexts.org/Bookshelves/Inorganic_Chem
 📄 Edington, J. W. (1975). Electron Diffraction in the Electron Microscope. Red Globe Press. https://doi.org/10.1007/978-1-349-02595-4
 
 #### Learning Objectives addressed by this activity:
-- 
+- Predict how stacking faults affect diffraction
 
 ### Debrief (2 min)
 
