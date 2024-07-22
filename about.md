@@ -161,21 +161,32 @@ If you have used up your slack days or exceeded the 2-day limit for a single dea
 
 ## Projects and Quizzes
 ### Project
-You will complete a final project, which will be in the form of a user proposal for instrument access to be submitted to a scientific user facility. Students will select a user facility of their choosing, and write a proposal investigating mechanical properties/deformation features/defects using available equipment. In this proposal you will describe a research plan that you would like to complete to understand deformation in a specific system. Projects will be graded on how well the proposed work addresses the hypothesis, and the feasibility of the experiment. Each student will complete an individual final project on a unique topic. (Adapted from Berkeley MSE 241 Syllabus). Students can work individually or with a partner
+You will complete a final project, which will be in the form of a user proposal for instrument access to be submitted to a scientific user facility. Students will select a user facility of their choosing, and write a proposal investigating mechanical properties/deformation features/defects using available equipment. In this proposal you will describe a research plan that you would like to complete to understand deformation in a specific system. Projects will be graded on how well the proposed work addresses the hypothesis, and the feasibility of the experiment. Each student will complete an individual final project on a unique topic. Students can work individually or with a partner. (Adapted from Berkeley MSE 241 Syllabus).
 
 The assignment will include:
-- written proposal
+- Written proposal
 - 15 minute in-class presentation
 
 
 ## Grading
 The relative contributions of the various elements to your grade are:
 
-**Problem sets:** 70%. PS0 is worth 10%, and PS1-PS4 are each worth 15%. Check-ins for PS0-PS4 are worth 1% of each problem set grade and are required to receive any points back on revisions. 
+**Problem sets:** 50%. PS0-PS4 are each worth 10%. Check-ins worth 1% of each problem set grade and are required to receive any points back on revisions. 
+
+**Journal Club Assignments:** 20% spread across 3-assignments; Participation in journal club lectures fall into classwork grade
 
 **Final Project:** 20%.
 
 **Classwork:** 10%. Reflects your continuous participation in the course. Determined by effort on before-class reading exercises, grade on nanoquizzes, and effort on in-class exercises.
+
+Grading Scheme
+| Category     | Percentage      | Details               |
+|:-------------|:------------------|:----------------    |
+| Problem Sets | 50%               |                     |
+| Journal Clubs| 20%               |                     |
+| Classwork    | 10%               | Make-ups for 1/2 points back available & lowest 5 classwork grades dropped       |
+| Final Project| 20%               |              |
+
 
 Letter grades are determined at the end of the semester. The default cutoffs are: a final average of 90 and above is an A, 80 and above is a B, 70 and above is a C. These boundaries may be adjusted downwards if necessary because of the difficulty of the assignments, but the boundaries will never be adjusted upwards, so a final average of 90 is guaranteed to be an A. The boundary adjustment is done heuristically, and there are no grade quotas, no grade targets, and no centering of the class on a particular grade boundary.
 
