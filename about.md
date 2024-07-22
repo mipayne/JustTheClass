@@ -58,7 +58,7 @@ Extra Resources:
 - [MSE 584](https://dtrinkle.matse.illinois.edu/MatSE584/)
     - this online module has a lot of the same content as this course but with different learning goals
 
-
+* * *
 
 ## Course Structure
 Unit 0: Overview of Crystallographic Structure
@@ -74,7 +74,7 @@ Unit 4: Grain boundaries
 Unit 5: Project
 
 ### Muddy Cards
-Every fourth class period of a unit will be "Muddy Card" Lecture, where discussed topics will include those proposed by students. 
+Every fourth class period of a unit will be a "Muddy Card" Lecture, where discussed topics will include those proposed by students. 
 Muddy cards can be written on paper in class the class period before the Muddy Card lecture or submitted on the [google form](https://docs.google.com/forms/d/e/1FAIpQLSfEng4On_vTBiJOrDqG2SDDcL_zuXyBPXqYyA5Bf-nhGubWZA/viewform?usp=sharing) by midnight of the class period before the Muddy Card lecture.  Students should feel free to ask about topics not discussed in class on muddy cards, but questions on topics specifically covered in the course will take precedence. 
 
 ### Journal Clubs
@@ -159,8 +159,8 @@ Slack days apply only to individual problem sets, not to team projects.
 
 If you have used up your slack days or exceeded the 2-day limit for a single deadline, you will need an instructor’s permission for more extension, and your circumstances will have to be extreme to justify the special request.
 
-## Projects and Quizzes
-### Project
+## Project
+
 You will complete a final project, which will be in the form of a user proposal for instrument access to be submitted to a scientific user facility. Students will select a user facility of their choosing, and write a proposal investigating mechanical properties/deformation features/defects using available equipment. In this proposal you will describe a research plan that you would like to complete to understand deformation in a specific system. Projects will be graded on how well the proposed work addresses the hypothesis, and the feasibility of the experiment. Each student will complete an individual final project on a unique topic. Students can work individually or with a partner. (Adapted from Berkeley MSE 241 Syllabus).
 
 The assignment will include:
@@ -203,6 +203,7 @@ For other grading issues, we ask you not to post on Piazza, and not to email or 
 
 Instead, please bring your grading questions to an instructor’s office hours, which are shown on the course calendar.
 
+* * *
 
 ## Course Culture (Adapted from the [Data100 course](https://ds100.org/fa22/syllabus/#course-culture))
 We hope to foster an inclusive and safe learning environment based on curiosity rather than competition. All members of the course community—the instructor, students, and GSIs—are expected to treat each other with courtesy and respect. Some of the responsibility for that lies with the staff, but a lot of it ultimately rests with you, the students.
