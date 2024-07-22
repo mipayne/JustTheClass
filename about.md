@@ -180,12 +180,13 @@ The relative contributions of the various elements to your grade are:
 **Classwork:** 10%. Reflects your continuous participation in the course. Determined by effort on before-class reading exercises, grade on nanoquizzes, and effort on in-class exercises.
 
 Grading Scheme
-| Category     | Percentage      | Details               |
-|:-------------|:------------------|:----------------    |
-| Problem Sets | 50%               |                     |
-| Journal Clubs| 20%               |                     |
-| Classwork    | 10%               | Make-ups for 1/2 points back available & lowest 5 classwork grades dropped       |
-| Final Project| 20%               |              |
+
+| Category     | Percentage      | Details            
+:-------------|:------------------|:---------------- :
+| Problem Sets | 50%               |                     
+| Journal Clubs| 20%               |                     
+| Classwork    | 10%               | Make-ups for 1/2 points back available & lowest 5 classwork grades dropped      
+| Final Project| 20%               |              
 
 
 Letter grades are determined at the end of the semester. The default cutoffs are: a final average of 90 and above is an A, 80 and above is a B, 70 and above is a C. These boundaries may be adjusted downwards if necessary because of the difficulty of the assignments, but the boundaries will never be adjusted upwards, so a final average of 90 is guaranteed to be an A. The boundary adjustment is done heuristically, and there are no grade quotas, no grade targets, and no centering of the class on a particular grade boundary.
