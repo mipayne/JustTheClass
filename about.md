@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About
+title: Syllabus
 description: >-
     Course policies and information.
 ---
 
-# About
+# Syllabus
 {:.no_toc}
 
 ## Table of contents
@@ -23,27 +23,27 @@ This course will guide you through the practical tools and background knowledge 
 We will do a quick overview of crystallographic structures including the Bravais lattices and slip systems as well as Schmid factor and slip trace analysis. Then we will take a detailed look at dislocations: how they form, move, and how to characterize them (theoretically and with electron microscopy). Finally, we will move onto higher dimensional defects including stacking faults, twins, and kink bands. At the end of this course, you will be able to identify deformation features based on electron microscope micrographs and supporting crystallographic information. Students will practice identification through journal club assignments where they will have to re-analyze data presented in papers and outline why the papers conclusions are justified or not given the available data.
 
 ### Learning Objectives
-- Interpret unidentified defect structures in SEM and TEM micrographs
-- Develop plans to determine which deformation features are present
-- Evaluate claims that a paper makes about what deformation features are present
-- Identify slip trace directions in an SEM image
-- Classify a boundary as a grain boundary, kink band, or twin
-- Determine if a dislocation is edge or screw
-- Use a burgers circuit to find the burgers vector
-- Relate deformation features to observed mechanical properties
-- Predict mechanical behavior based on observed deformation features
-- Assemble tools in your characterization "tool-box" for your structural materials research
-- Formulate and/or use toy models to better understand your system and design experiments
-- Reflect on the best ways to assess and question existing research
-- Predict the tools you will need to answer your research questions
-- Demonstrate thoughtful, critical, and respectful discussion with peers
-- Write and Present research plans clearly and be able describe why this research is worth doing
-- Appreciate situations where electron microscopy characterization techniques are useful with respect to defects and understand their limitations
+- <u>Interpret</u> unidentified defect structures in SEM and TEM micrographs
+- <u>Develop</u> plans to determine which deformation features are present
+- <u>Evaluate</u> claims that a paper makes about what deformation features are present
+- <u>Identify</u> slip trace directions in an SEM image
+- <u>Classify</u> a boundary as a grain boundary, kink band, or twin
+- <u>Determine</u> if a dislocation is edge or screw
+- <u>Use</u> a burgers circuit to find the burgers vector
+- <u>Relate</u> deformation features to observed mechanical properties
+- <u>Predict</u> mechanical behavior based on observed deformation features
+- <u>Assemble</u> tools in your characterization "tool-box" for your structural materials research
+- <u>Formulate</u> and/or use toy models to better understand your system and design experiments
+- <u>Reflect</u> on the best ways to assess and question existing research
+- <u>Predict</u> the tools you will need to answer your research questions
+- <u>Demonstrate</u> thoughtful, critical, and respectful discussion with peers
+- <u>Write</u> and <u>Present</u> research plans clearly and be able describe why this research is worth doing
+- <u>Appreciate</u> situations where electron microscopy characterization techniques are useful with respect to defects and understand their limitations
 
 ### Prerequisites
 General Material Science and Mechanics of Materials Background
 
-Expected Materials Science Background and Resources:
+<b>Expected Materials Science Background and Resources:</b>
 - Callister
     Good for looking up basic descriptions of some things that you might come across
     - You should have already been exposed to these topics
@@ -52,7 +52,11 @@ Expected Materials Science Background and Resources:
         - Ch.7 Dislocations and Strengthening Mechanisms
 - Morris – IV Mechanical properties
 - Any introduction to solid state chemistry:
-    - [MIT's edx course](https://www.edx.org/course/introduction-to-solid-state-chemistry)
+    - [MIT's Introduction to Solid State Chemistry edx course](https://www.edx.org/course/introduction-to-solid-state-chemistry)
+
+Extra Resources:
+- [MSE 584](https://dtrinkle.matse.illinois.edu/MatSE584/)
+    - this online module has a lot of the same content as this course but with different learning goals
 
 
 
@@ -78,15 +82,15 @@ Units 2, 3, and 4 will have a journal club assignment and class period:
 The assigned reading for this class is the journal article. 
 
 Journal Clubs consist of:
-- reading the assigned primary research article
+- Reading the assigned primary research article
 - Write up reasons why you agree or disagree with a specific conclusion based on the provided evidence
 - Participate in structured discussion
 
 #### Written Assignment guidelines
 - Students will submit a peer-reviewed journal style "reviewer comments" which should include:
     - short 1 paragraph summary of the article
-    - comments that focus on at least 3 conclusions made in the article 
-- comments may be critical or complimentary of conclusions, but must reference how provided evidence (e.g. figures, tables, data) support the conclusions
+    - comments that focus on at least 3 claims made in the article 
+- comments may be critical or complimentary of claims, but must reference how provided evidence (e.g. figures, tables, data) support the claims
 - Specific assignments may include additional tasks (e.g. complete a figure annotation assignment)
 
 ## Classes, readings, nanoquizzes
@@ -131,12 +135,25 @@ Problem sets. To consolidate your understanding of the ideas from class, you wil
 ### Iteration:
 Each problem set will have two submissions, alpha and beta. The alpha submission will be graded. The beta submission is due a few days after you receive feedback on alpha. You will be expected to do a revision on your solutions and write up an explanation of where you went wrong in your first solution. Then you will have to do a check-in with a staff member during office hours within 7 days of the beta submission deadline where you talk through your revision. If you received full marks on your alpha submission, you do not have to submit a written revision. However, you still need to complete a check-in within 7 days of the beta submission deadline. 
 
+### Check-ins
+In the beta submission of problem sets, students must submit a written explaination of what they corrected and why the original answer was incorrect. Then in the check-ins students will be asked 4-6 questions about the homework. Students must complete the check-in to get credit for the beta submission. Correct revisions to the alpha submission as well as a successful check-in will clober the alpha submission grade to that of the beta submission. For example, if your PS1 alpha submission was a 60%, but you got 100% on your PS1 beta submission and you successfully completed your check-in, then your PS1 grade would be 100%. Students would already have access to the correct answers at the time of check-ins, so questions would focus on understanding of the answer as well as asking students to think about the techniques they used to answer questions. Some example questions include:
+
+- What methods did you use to answer this question?
+
+- What assumptions did you make with this question?
+
+- Explain how you approached the question
+- Why were you able to use this equation to answer this question?
+
+Additionally students who were earning back points on missed questions would also discuss with the instructor what went wrong specifically in their first attempt and demonstrate that they can articulate why that approach was incorrect.
+
+
 ### Slack days:  
 To give you some flexibility for periods of heavy workload, minor illness, absence from campus, and other unusual circumstances, you may request limited extensions on problem set deadlines, called slack days. Each slack day is a 24-hour extension on the deadline. You have a budget of 10 slack days for the entire semester, which you may apply to any combination of problem sets, on either the alpha deadline or beta deadline or both. You can use at most 2 slack days for a given deadline. 
 
 You must request your extension before the problem set is due, by filling out this [google form](https://docs.google.com/forms/d/e/1FAIpQLSecF--lKuSqtInVrBADSc2GpWehYstVcWRJ9zyHp_do9MkxMA/viewform?usp=pp_url)
 
-Slack days are atomic; you can’t chop them up into slack hours or minutes. If you choose to use a slack day because you’re struggling with an assignment, go to bed and sleep, and get help in the morning. Seriously, that’s why the smallest unit is a day.
+Slack days are integer values of days; you can’t chop them up into slack hours or minutes. If you choose to use a slack day because you’re struggling with an assignment, go to bed and sleep, and get help in the morning. Seriously, that’s why the smallest unit is a day.
 
 Slack days apply only to individual problem sets, not to team projects.
 
@@ -205,6 +222,9 @@ We are committed to creating a learning environment welcoming of all students th
 
 ## Q&A
 
+### Why are there alpha and beta submissions for problem sets?
+We believe in teaching to achieve mastery, therefore we wanted structured was to have students revisit previous problems sets and correct any mistake they make. Additionally, the check-ins allow for correction of misunderstandings of where certain errors come from and could even be an opportunity for students to more closely check the grading of the teaching staff.  
+
 ### What is the best way to ask asynchronous questions?
 The best way to reach the course staff outside of office hours and lectures is by submitting a private or public post on Piazza. We encourage students to post questions about course content on piazza so that students can learn from eachothers questions. However, if you specific solutions to assignments should only be posted privately to the course instructors.
 
@@ -239,6 +259,9 @@ See: [Testing effect](https://en.wikipedia.org/wiki/Testing_effect)
 
 ### Are past nanoquizzes available?
 No. However, reading exercises are often based on (or copied from) past nanoquiz questions.
+
+### Why is there a limit to 2 slack days per assignment?
+Although we want to provide students with flexibility, we also want to ensure that we can release assignment solutions and instructor feedback in a reasonable time for students to review in-time for the next assignment.
 
 ## Additional Resources
 ### We want you to succeed!

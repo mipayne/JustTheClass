@@ -34,6 +34,6 @@ In this section we will go over the connection between dislocations and deformat
 - 📚 [Hull and Bacon: Introduction to Dislocations: Section 1.4](https://www.sciencedirect.com/book/9780080966724/introduction-to-dislocations)
 
 # Journal Club
-[Li, Keer et al. A novel deformation mechanism in Ti-V binary $/beta$-Ti alloys: Deformation kinking promoted by dislocation accumulation](https://doi.org/10.1016/j.jallcom.2021.159982)
+[Pozuelo, M., Marian, J. In-situ observation of ‘chemical’ strengthening induced by compositional fluctuations in Nb-Mo-Ta-W](https://doi.org/10.1016/j.scriptamat.2023.115750)
 
 # Learning Objectives of Unit 2:

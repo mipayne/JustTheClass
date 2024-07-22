@@ -30,3 +30,7 @@ has_children: true
 
 ## Lecture 14: Grain boundaries and Deformation
 # Learning Objectives of Unit 4:
+
+
+# Journal Club Assignment:
+[Li, Keer et al. A novel deformation mechanism in Ti-V binary $\beta$-Ti alloys: Deformation kinking promoted by dislocation accumulation](https://doi.org/10.1016/j.jallcom.2021.159982)
