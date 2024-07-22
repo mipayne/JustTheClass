@@ -4,6 +4,7 @@ title: Unit-01
 nav_order: 2
 has_children: true
 ---
+# Learning Objectives of Unit 1:
 
 # Topics
 
@@ -45,14 +46,3 @@ What basic knowledge of SEM do we need for further units?
 ## Background knowledge:
 - 🎥 [MITx 3.012](https://mitxonline.mit.edu/courses/course-v1:MITxT+3.012Sx/)
 	- Unit 2 provides background on real and reciprocal space and xray diffraction
-
-# Learning Objectives of Unit 1:
-
-
-
-
-
-
-Resources:
-
-- 🎥 Visualization of abc plane stacking in fcc copper [youtube video](https://www.youtube.com/watch?v=anBOxrbTDrI)

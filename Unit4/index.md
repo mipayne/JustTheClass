@@ -4,6 +4,7 @@ title: Unit-04
 nav_order: 5
 has_children: true
 ---
+# Learning Objectives of Unit 4:
 
 # Topics
 ## Lecture 12: Introduction to Grain Boundaries
@@ -27,9 +28,6 @@ has_children: true
 ## Lecture 12: Introduction to Grain Boundaries
 ## Lecture 13: Twins, kink bands and unusual boundaries
 - 📚 [Deformation Twinning](https://www.sciencedirect.com/science/article/abs/pii/B9780128035818028782?via%3Dihub)
-
-## Lecture 14: Grain boundaries and Deformation
-# Learning Objectives of Unit 4:
 
 
 # Journal Club Assignment:

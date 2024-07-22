@@ -4,20 +4,23 @@ title: Unit-00
 nav_order: 1
 has_children: true
 ---
-# Topics
-Lecture 00: Introduction to the course
+# Learning Objectives of Unit 0:
 
-Lecture 01: 
+# Topics
+## Lecture 00: Introduction to the course
+
+## Lecture 01: 
 - Point groups and bravais lattices
 - miller indices
 
 
-Lecture 02: 
+## Lecture 02: 
 - typical crystal structures: fcc, bcc, hcp, 
 - ordered versions of typical crystal structures: L12, B2, Si-Ge structure
 
-Lecture 03: 
+## Lecture 03: 
 - CRSS, schmid factor and slip planes
+
 # Readings
 
 - 🎥 [MITx 30.12](https://mitxonline.mit.edu/courses/course-v1:MITxT+3.012Sx/)
@@ -26,10 +29,5 @@ Lecture 03:
 - 📚 [DoITPoMS](https://www.doitpoms.ac.uk/) has many small modules on materials science topics
 	- [Crystal structure](https://www.doitpoms.ac.uk/tlplib/crystallography3/structure.php)
 	- [Miller indices](https://www.doitpoms.ac.uk/tlplib/miller_indices/printall.php)
-
-
-# Learning Objectives of Unit 0:
-
-Resources:
-
--	Visualization of abc plane stacking in fcc copper [youtube video](https://www.youtube.com/watch?v=anBOxrbTDrI)
+	
+- 🎥 Visualization of abc plane stacking in fcc copper [youtube video](https://www.youtube.com/watch?v=anBOxrbTDrI)

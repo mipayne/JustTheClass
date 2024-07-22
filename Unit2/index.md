@@ -4,22 +4,24 @@ title: Unit-02
 nav_order: 3
 has_children: true
 ---
+# Learning Objectives of Unit 2:
 
 # Topics
-Lecture 6: Introduction to dislocations
+## Lecture 6: Introduction to dislocations
 - Movement and interaction of dislocations (e.g. climb, crossslip, kinking)
 - Equations of dislocations (only around 5 slides worth of content in traditional class style)
 	- dislocation strain fields
 
-Lecture 7: Characterization/Imaging of dislocations
+## Lecture 7: Characterization/Imaging of dislocations
 - TEM - G.b
 - SEM - ECCI
 - STEM imaging BF and DF
 - Lacbed: further reading slides but will not provide lot of information
 
-Lecture 8: Dislocations and Deformation
+## Lecture 8: Dislocations and Deformation
 - misfit dislocations
 - GND's/all the things I read for the Cu project
+
 In this section we will go over the connection between dislocations and deformation
 - what do dislocations tell you about deformation
 - wavy vs planar slip?
@@ -36,4 +38,3 @@ In this section we will go over the connection between dislocations and deformat
 # Journal Club
 [Pozuelo, M., Marian, J. In-situ observation of ‘chemical’ strengthening induced by compositional fluctuations in Nb-Mo-Ta-W](https://doi.org/10.1016/j.scriptamat.2023.115750)
 
-# Learning Objectives of Unit 2:

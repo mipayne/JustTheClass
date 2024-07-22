@@ -8,41 +8,6 @@ has_children: true
 {: .no_toc .text-delta }
 1. TOC
 {:toc}
-# Topics
-## Lecture 10: Introduction to Stacking Faults
-- Stacking Faults
-- Lomer Cottrell Locks and Stacking Fault Tetrahedra
-- how stacking faults and others are generated: annealing, radition , etc. 
-
-## Lecture 11: Other Planar Defects
-- other planar defects: anti-phase boundaries, inversion domain boundaries
-
-## Lecture 12: Stacking Faults and Deformation
-- Quantitative Analysis of Stacking Faults
-  - burgers vector sums
-  - fringe contrast --> indication of extrnisic vs intrinsic stacking fault
-
-# Reading List
-
-## Lecture 10: Introduction to Stacking Faults
-- 📚 [Hull and Bacon: Introduction to Dislocations: Section 1.3](https://www.sciencedirect.com/book/9780080966724/introduction-to-dislocations)
-  - Stacking Faults
-- 📚 [Hull and Bacon: Introduction to Dislocations: Section 5.6 (pg 97-101)](https://www.sciencedirect.com/book/9780080966724/introduction-to-dislocations)
-  - Lomer-Cottrell Locks & SFTs
-- 📚 [MSE584 Unit 5.4.1](https://dtrinkle.matse.illinois.edu/MatSE584/kap_5/backbone/r5_4_1.html)
-- 🎥 Visualization of abc plane stacking in fcc copper youtube [video](https://www.youtube.com/watch?v=anBOxrbTDrI)
-## Lecture 11: Other Planar Defects
-
-
-## Lecture 12: Stacking Faults and Deformation
-- 🎥 [Niraj Chawake's Stacking faults in FCC](https://www.youtube.com/watch?v=yRRoI9tgET8&t=1361s)
-  - [18:04-26:26]
-- 📚 [Sun_2021](https://doi.org/10.1080/14786437108217419)
-  - Section 3.1 contains a good explanation of SFE calculation from TEM
-- 📄 [Cockayne_1971](https://doi.org/10.1080/14786437108217419) (example of SFE calculations in fcc materials)
-
-
-
 # Learning Objectives of Unit 3: Stacking Faults
 
 ## Identify
@@ -78,15 +43,44 @@ Ultimately these skills help materials scientists understand how things will def
 By calculating the stacking fault energy you will have a tool to 
   - Relate deformation features to observed mechanical properties
 
+
+# Topics
+## Lecture 10: Introduction to Stacking Faults
+- Stacking Faults
+- Lomer Cottrell Locks and Stacking Fault Tetrahedra
+- how stacking faults and others are generated: annealing, radition , etc. 
+
+## Lecture 11: Other Planar Defects
+- other planar defects: anti-phase boundaries, inversion domain boundaries
+
+## Lecture 12: Stacking Faults and Deformation
+- Quantitative Analysis of Stacking Faults
+  - burgers vector sums
+  - fringe contrast --> indication of extrnisic vs intrinsic stacking fault
+
+# Reading List
+
+## Lecture 10: Introduction to Stacking Faults
+- 📚 [Hull and Bacon: Introduction to Dislocations: Section 1.3](https://www.sciencedirect.com/book/9780080966724/introduction-to-dislocations)
+  - Stacking Faults
+- 📚 [Hull and Bacon: Introduction to Dislocations: Section 5.6 (pg 97-101)](https://www.sciencedirect.com/book/9780080966724/introduction-to-dislocations)
+  - Lomer-Cottrell Locks & SFTs
+- 📚 [MSE584 Unit 5.4.1](https://dtrinkle.matse.illinois.edu/MatSE584/kap_5/backbone/r5_4_1.html)
+- 🎥 Visualization of abc plane stacking in fcc copper youtube [video](https://www.youtube.com/watch?v=anBOxrbTDrI)
+## Lecture 11: Other Planar Defects
+
+
+## Lecture 12: Stacking Faults and Deformation
+- 🎥 [Niraj Chawake's Stacking faults in FCC](https://www.youtube.com/watch?v=yRRoI9tgET8&t=1361s)
+  - [18:04-26:26]
+- 📚 [Sun_2021](https://doi.org/10.1080/14786437108217419)
+  - Section 3.1 contains a good explanation of SFE calculation from TEM
+- 📄 [Cockayne_1971](https://doi.org/10.1080/14786437108217419) (example of SFE calculations in fcc materials)
+
 # Assessments
 
 ## Problem Sets
 [Problem Set #3](PS3_questions.html)
-- Question 1: 
-- Question 2: 
-- Question 3: 
-- Question 4:
-- Question 5:
 
 ## Journal Club Assignment
 - Fang, Y., Chen, Y., Chen, B., Li, S., Gludovatz, B., Park, E. S., Sheng, G., Ritchie, R. O., & Yu, Q. (2021). An in situ ambient and cryogenic transmission electron microscopy study of the effects of temperature on dislocation behavior in CrCoNi-based high-entropy alloys with low stacking-fault energy. Applied Physics Letters, 119(26), 261903. [LINK](https://pubs.aip.org/aip/apl/article/119/26/261903/1023045)

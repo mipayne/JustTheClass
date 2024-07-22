@@ -6,12 +6,12 @@ has_children: true
 ---
 
 # Topics
-This section is focuse on putting mostly your planning skills to practice
+This section is focused on putting your planning skills to practice
 
 
 # Learning Objectives of Unit 5:
-- Develop plans to determine which deformation features are present
-- Predict the tools you will need to answer your research questions
-- Demonstrate thoughtful, critical, and respectful discussion with peers
-- Write and Present research plans clearly and be able describe why this research is worth doing
-- Appreciate situations where electron microscopy characterization techniques are useful with respect to defects and understand their limitations
+- <u>Develop</u> plans to determine which deformation features are present
+- <u>Predict</u> the tools you will need to answer your research questions
+- <u>Demonstrate</u> thoughtful, critical, and respectful discussion with peers
+- <u>Write</u> and <u>Present</u>research plans clearly and be able describe why this research is worth doing
+- <u>Appreciate</u> situations where electron microscopy characterization techniques are useful with respect to defects and understand their limitations
