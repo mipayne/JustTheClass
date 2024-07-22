@@ -130,7 +130,7 @@ Accepted makeup questions may be used anonymously as ungraded review or makeup m
 
 
 ## Problem sets, iteration, and slack days
-Problem sets. To consolidate your understanding of the ideas from class, you will do five problem sets, PS0 to PS4, involving both design and implementation work. Problem sets will be done individually. More info: collaboration on problem sets.
+Problem sets. To consolidate your understanding of the ideas from class, you will do five problem sets. Every student will submit their indivdual work on problem sets, but students are encouraged to collaborate on problems. Please list your collaborators at the top of your submission.
 
 ### Iteration:
 Each problem set will have two submissions, alpha and beta. The alpha submission will be graded. The beta submission is due a few days after you receive feedback on alpha. You will be expected to do a revision on your solutions and write up an explanation of where you went wrong in your first solution. Then you will have to do a check-in with a staff member during office hours within 7 days of the beta submission deadline where you talk through your revision. If you received full marks on your alpha submission, you do not have to submit a written revision. However, you still need to complete a check-in within 7 days of the beta submission deadline. 
