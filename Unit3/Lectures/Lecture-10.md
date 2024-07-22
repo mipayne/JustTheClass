@@ -19,8 +19,6 @@ At the end of this lecture students will be able to:
 - Visually demonstrate the difference between FCC and HCP stacking
 - Predict how stacking faults affect diffraction
 
-## Lesson
-
 ## Nanoquiz (5 min)
 Students are expected to arrive on time so that they have enought time to complete the nanoquiz.
 ### Question 1
