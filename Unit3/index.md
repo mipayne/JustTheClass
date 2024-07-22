@@ -45,7 +45,7 @@ has_children: true
 
 # Learning Objectives of Unit 3: Stacking Faults
 
-## Identification
+## Identify
 - <u>Identify</u> a stacking fault with through TEM micrographs
 - <u>Identify</u> a Lomer Cottrell lock through TEM micrographs
 - <u>Identify</u> a stacking fault tetrahedra through TEM micrographs
@@ -53,6 +53,7 @@ has_children: true
 By being able to identify these features in TEM micrographs you will have a tool in your toolbox accomplish several overall learning objectives including:
   - Develop plans to determine which deformation features are present
   - Evaluate claims that a paper makes about what deformation features are present
+
 ## Describe
 - Describe how planes move to create a stacking fault
 - Describe how dislocations relate to stacking faults
@@ -80,7 +81,7 @@ By calculating the stacking fault energy you will have a tool to
 # Assessments
 
 ## Problem Sets
-Problem Set #1
+[Problem Set #3](PS3_questions.html)
 - Question 1: 
 - Question 2: 
 - Question 3: 
