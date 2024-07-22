@@ -86,10 +86,10 @@ Journal Clubs consist of:
 - Write up reasons why you agree or disagree with a specific conclusion based on the provided evidence
 - Participate in structured discussion
 
-#### <b>Written Assignment guidelines</b>
+##### Written Assignment guidelines
 - Students will submit a peer-reviewed journal style "reviewer comments" which should include:
-    - short 1 paragraph summary of the article
-    - comments that focus on at least 3 claims made in the article 
+    - Short 1 paragraph summary of the article
+    - Comments that focus on at least 3 claims made in the article 
 - Comments may be critical or complimentary of claims, but must reference how provided evidence (e.g. figures, tables, data) support the claims
 - Specific assignments may include additional tasks (e.g. complete a figure annotation assignment)
 
