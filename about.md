@@ -57,7 +57,9 @@ General Material Science and Mechanics of Materials Background
 Extra Resources:
 - [MSE 584](https://dtrinkle.matse.illinois.edu/MatSE584/)
     - this online module has a lot of the same content as this course but with different learning goals
-
+- EELS/ vibrations modes examples
+    [https://scied.ucar.edu/learning-zone/atmosphere/molecular-vibration-modes](https://scied.ucar.edu/learning-zone/atmosphere/molecular-vibration-modes)
+    [https://henriquemiranda.github.io/phononwebsite/phonon.html](https://henriquemiranda.github.io/phononwebsite/phonon.html)
 * * *
 
 ## Course Structure

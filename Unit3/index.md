@@ -77,6 +77,7 @@ By calculating the stacking fault energy you will have a tool to:
 - 📚 [Sun_2021](https://doi.org/10.1080/14786437108217419)
   - Section 3.1 contains a good explanation of SFE calculation from TEM
 - 📄 [Cockayne_1971](https://doi.org/10.1080/14786437108217419) (example of SFE calculations in fcc materials)
+- 📚[How stacking faults affect diffraction](http://skuld.bmsc.washington.edu/~merritt/bc530/local_copies/Proffen-Neder-Tutorial/teaching/dif_h.html)
 
 # Assessments
 
@@ -92,6 +93,7 @@ By calculating the stacking fault energy you will have a tool to:
 -  Make a diffraction cheat sheet for fcc, bcc, and a structure of your choosing
 
 - Identify resources that were helpful to you
+
 
 
 
