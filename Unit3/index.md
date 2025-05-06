@@ -49,7 +49,7 @@ By calculating the stacking fault energy you will have a tool to:
 ## Lecture 10: Introduction to Stacking Faults
 - Stacking Faults
 - Lomer Cottrell Locks and Stacking Fault Tetrahedra
-- How stacking faults and others are generated: annealing, radition , etc. 
+- How stacking faults and others are generated: annealing, radiation , etc. 
 
 ## Lecture 11: Other Planar Defects
 - Other planar defects: anti-phase boundaries, inversion domain boundaries
