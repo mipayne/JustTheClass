@@ -79,6 +79,12 @@ By calculating the stacking fault energy you will have a tool to:
 - 📄 [Cockayne_1971](https://doi.org/10.1080/14786437108217419) (example of SFE calculations in fcc materials)
 - 📚[How stacking faults affect diffraction (interactive tutorial from Proffen and Neder at the University of Washington)](http://skuld.bmsc.washington.edu/~merritt/bc530/local_copies/Proffen-Neder-Tutorial/teaching/dif_h.html)
 
+## Other related reading:
+- 📚 Carter and Williams, Ch.17.3, 17.4, 17.5, 17.6
+  - why do we see streaking in diffraction patterns from samples planar defects like stacking faults?
+- 📚 Carter and Williams, Ch.25 Imaging Planar Defects
+- 🎥 [Imaging SF Lecture from Prof. Kelvin Xie at Texas A&M University](https://youtu.be/uHBMd6-fBSs?si=cJzUIR8munDVM-o2)
+
 # Assessments
 
 ## Problem Sets
