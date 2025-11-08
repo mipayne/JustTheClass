@@ -84,7 +84,7 @@ By calculating the stacking fault energy you will have a tool to:
   - why do we see streaking in diffraction patterns from samples planar defects like stacking faults?
 - 📚 Carter and Williams, Ch.25 Imaging Planar Defects
 - 🎥 [Imaging SF Lecture from Prof. Kelvin Xie at Texas A&M University](https://youtu.be/uHBMd6-fBSs?si=cJzUIR8munDVM-o2)
-
+- 📚 Basic introduction to stacking faults Callister summary on [PSU MATSE81 notes] (https://www.e-education.psu.edu/matse81/node/2133)
 # Assessments
 
 ## Problem Sets

@@ -46,3 +46,6 @@ What basic knowledge of SEM do we need for further units?
 ## Background knowledge:
 - 🎥 [MITx 3.012](https://mitxonline.mit.edu/courses/course-v1:MITxT+3.012Sx/)
 	- Unit 2 provides background on real and reciprocal space and xray diffraction
+
+## Other resources
+- [Myscope Microscopy interactive tools from Microscopy Australia](https://myscope.training/CRYO_Introduction_to_cryo_techniques)
